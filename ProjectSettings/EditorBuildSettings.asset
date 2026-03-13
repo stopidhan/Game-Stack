@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 88403338035ddcc4db1509fc74454f5a
+  - enabled: 1
+    path: Assets/Scenes/V70_MainMenu.unity
+    guid: 2f82acbc80a76324381ee7fc2b8f39b5
+  - enabled: 1
+    path: Assets/Scenes/V70_GameScene.unity
+    guid: c27e97db316b6c54bae363015feafcd1
+  - enabled: 1
+    path: Assets/Scenes/Stack - 072.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/V85-Scenes/V85-SettingsScene.unity
+    guid: 5d3dad45ffd068c44bfa4e8feea556ce
+  - enabled: 1
+    path: Assets/V85-Scenes/V85-MainMenu.unity
+    guid: ba1f2c0d72de68545b271a86d2375e19
+  - enabled: 1
+    path: Assets/V85-Scenes/V85-GameScene.unity
+    guid: 90739bac0e9245547a491188d910d435
+  - enabled: 1
+    path: Assets/Scenes/FruitNinja 077.unity
+    guid: a5da1083fb695c740bab9f3f5f204828
+  - enabled: 1
+    path: Assets/Scenes/MainMenu 079.unity
+    guid: 786981907704ed64c8284f4b00b445cc
+  - enabled: 1
+    path: Assets/Scenes/EndlessMode.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TimerMode.unity
+    guid: b96f4aaa297dd0a4da02e71976a88f8f
+  m_configObjects: {}

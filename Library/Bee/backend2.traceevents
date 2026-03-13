@@ -1,0 +1,345 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1735794917016572, "dur":34951, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735794917051536, "dur":120, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735794917051719, "dur":814, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735794917052722, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1735794917052873, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/level6" }}
+,{ "pid":12345, "tid":0, "ts":1735794917053016, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1735794917053922, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets9.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1735794917054131, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735794917054333, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735794917054518, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735794917054906, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735794917055012, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735794917055679, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735794917055825, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735794917056055, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735794917056559, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735794917056786, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735794917057141, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1735794917057234, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1735794917057341, "dur":122, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1735794917057771, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Stack Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735794917052560, "dur":5263, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735794917057827, "dur":313874, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735794917371703, "dur":388, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735794917372091, "dur":90, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735794917372353, "dur":1253, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1735794917052597, "dur":5252, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735794917057854, "dur":8210, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735794917100172, "dur":502, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1735794917100683, "dur":141, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1735794917100851, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1735794917101402, "dur":187, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playere3a299a6-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1735794917101726, "dur":180, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735794917100680, "dur":1269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1735794917102569, "dur":128, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735794917102903, "dur":264282, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1735794917370660, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1735794917370659, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1735794917370787, "dur":850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1735794917052673, "dur":5197, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735794917057875, "dur":821, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735794917058750, "dur":1238, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917058697, "dur":1919, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735794917060617, "dur":5468, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735794917066106, "dur":96, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1735794917066092, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1735794917066205, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735794917067862, "dur":2321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1735794917070239, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1735794917070315, "dur":1387, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735794917071715, "dur":215, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735794917072309, "dur":740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1735794917073397, "dur":1969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917075420, "dur":193, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917075418, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917075626, "dur":140, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735794917084019, "dur":118, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735794917075769, "dur":8382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917084266, "dur":2396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917089218, "dur":128, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735794917086751, "dur":2640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917089449, "dur":675, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Stack\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917089448, "dur":677, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917090143, "dur":3521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917093699, "dur":2228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917096104, "dur":1629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917097810, "dur":5732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917103680, "dur":3504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917107285, "dur":8047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917115429, "dur":9346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917124852, "dur":6098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735794917131046, "dur":7268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":2, "ts":1735794917138372, "dur":32934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":2, "ts":1735794917171341, "dur":20473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1735794917191972, "dur":1116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1735794917193123, "dur":2892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/level9" }}
+,{ "pid":12345, "tid":2, "ts":1735794917196357, "dur":3065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/level7" }}
+,{ "pid":12345, "tid":2, "ts":1735794917199452, "dur":1596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1735794917201060, "dur":170644, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735794917052719, "dur":5207, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735794917058277, "dur":1666, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Stevedore.Program.exe" }}
+,{ "pid":12345, "tid":3, "ts":1735794917057930, "dur":2516, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735794917060447, "dur":5654, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735794917066121, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1735794917066109, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1735794917066205, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735794917070270, "dur":375, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735794917067747, "dur":2919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1735794917071194, "dur":3261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1735794917074960, "dur":4237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1735794917079302, "dur":1974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735794917081429, "dur":3680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735794917085676, "dur":1810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735794917087539, "dur":432, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Stack\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735794917087537, "dur":436, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735794917087995, "dur":3618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735794917091655, "dur":3122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735794917094936, "dur":2870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735794917097900, "dur":11291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735794917114493, "dur":15606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735794917130319, "dur":70737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets8.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1735794917201072, "dur":170639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735794917052823, "dur":5479, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735794917058306, "dur":793, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735794917059101, "dur":763, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735794917059864, "dur":55, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735794917059919, "dur":6261, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735794917066190, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1735794917066181, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1735794917066261, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735794917067436, "dur":2232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1735794917069731, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1735794917069902, "dur":2151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1735794917072113, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1735794917072356, "dur":1109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735794917077933, "dur":246, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735794917073492, "dur":4727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1735794917078394, "dur":2451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735794917084043, "dur":236, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735794917080945, "dur":3439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735794917084450, "dur":6547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735794917091067, "dur":6832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735794917097964, "dur":6100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735794917104146, "dur":12876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735794917117141, "dur":11424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735794917128627, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735794917128624, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735794917128733, "dur":37458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735794917206716, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735794917166277, "dur":40536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":4, "ts":1735794917206845, "dur":164878, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735794917052877, "dur":5926, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735794917058807, "dur":755, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735794917059562, "dur":217, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735794917059780, "dur":233, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735794917060013, "dur":6063, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735794917066700, "dur":400, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1735794917067264, "dur":4158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1735794917071424, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1735794917071537, "dur":2745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1735794917074376, "dur":1273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog.exe" }}
+,{ "pid":12345, "tid":5, "ts":1735794917075746, "dur":8409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917084262, "dur":5008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917089454, "dur":368, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Stack\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917089453, "dur":370, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917089941, "dur":1545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917091893, "dur":2926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917094894, "dur":1967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917096952, "dur":1890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917098923, "dur":5577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917104584, "dur":5233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917111009, "dur":117, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735794917109915, "dur":1230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917111235, "dur":4160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917115465, "dur":3220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917118763, "dur":5946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917124796, "dur":5343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735794917151617, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735794917130257, "dur":21502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":5, "ts":1735794917151849, "dur":19614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":5, "ts":1735794917175948, "dur":163, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735794917171493, "dur":4640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":5, "ts":1735794917180689, "dur":76, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735794917176178, "dur":4633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":5, "ts":1735794917180886, "dur":17796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1735794917198717, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/level3" }}
+,{ "pid":12345, "tid":5, "ts":1735794917200228, "dur":1450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1735794917201689, "dur":170009, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735794917052997, "dur":6266, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735794917059268, "dur":646, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735794917059915, "dur":6164, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735794917066105, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1735794917066085, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1735794917066842, "dur":4396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1735794917071517, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1735794917071514, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1735794917071597, "dur":551, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735794917072176, "dur":2744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1735794917075111, "dur":4661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735794917079843, "dur":2490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735794917082441, "dur":3684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735794917086224, "dur":3850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735794917090159, "dur":3514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735794917093750, "dur":2192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735794917096073, "dur":1118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735794917101390, "dur":225, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735794917097295, "dur":4334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735794917101733, "dur":1994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735794917103899, "dur":3110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735794917107326, "dur":8103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735794917115502, "dur":2961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735794917118542, "dur":995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735794917119982, "dur":8914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735794917128982, "dur":7626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets9.resource" }}
+,{ "pid":12345, "tid":6, "ts":1735794917136666, "dur":35081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1735794917171774, "dur":18265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets10.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1735794917190069, "dur":5303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1735794917195400, "dur":3027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/level7.resS" }}
+,{ "pid":12345, "tid":6, "ts":1735794917198484, "dur":1382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/level4" }}
+,{ "pid":12345, "tid":6, "ts":1735794917199892, "dur":1745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1735794917201651, "dur":170062, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735794917053093, "dur":6944, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735794917060037, "dur":6133, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735794917066177, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1735794917066252, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735794917115341, "dur":2102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1735794917117528, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735794917117594, "dur":2050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1735794917119977, "dur":8119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1735794917160159, "dur":277, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735794917128182, "dur":32291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1735794917160761, "dur":13108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1735794917173901, "dur":15671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":7, "ts":1735794917189749, "dur":2491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1735794917192271, "dur":4008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1735794917196313, "dur":2306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/level6" }}
+,{ "pid":12345, "tid":7, "ts":1735794917198662, "dur":1546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/level3.resS" }}
+,{ "pid":12345, "tid":7, "ts":1735794917200262, "dur":4610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1735794917204890, "dur":166834, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1735794917053050, "dur":6974, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1735794917060025, "dur":6065, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1735794917066091, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1735794917066253, "dur":140, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1735794917080187, "dur":3117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1735794917083445, "dur":3577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735794917087111, "dur":3487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735794917090646, "dur":4078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735794917094812, "dur":1958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735794917096852, "dur":1540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735794917098489, "dur":19720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735794917118303, "dur":10664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735794917129066, "dur":62388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets9.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1735794917191518, "dur":7114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1735794917198768, "dur":1910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/level10" }}
+,{ "pid":12345, "tid":8, "ts":1735794917200718, "dur":1129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1735794917201864, "dur":169858, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735794917053141, "dur":6907, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735794917060049, "dur":6101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735794917066156, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1735794917066243, "dur":162, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735794917100502, "dur":923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1735794917101537, "dur":480, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735794917102020, "dur":2912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1735794917105030, "dur":6374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1735794917111541, "dur":5640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1735794917117262, "dur":675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1735794917123349, "dur":266, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735794917118018, "dur":5617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1735794917123741, "dur":5165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1735794917129139, "dur":1012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":9, "ts":1735794917130195, "dur":8325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets8.resource" }}
+,{ "pid":12345, "tid":9, "ts":1735794917138549, "dur":56664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1735794917195250, "dur":3462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/level8" }}
+,{ "pid":12345, "tid":9, "ts":1735794917198737, "dur":2056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/level2" }}
+,{ "pid":12345, "tid":9, "ts":1735794917200804, "dur":170898, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1735794917053202, "dur":6857, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1735794917060059, "dur":6076, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1735794917066156, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1735794917066142, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1735794917066242, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1735794917067751, "dur":2070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1735794917069947, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1735794917070076, "dur":2682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1735794917072846, "dur":792, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1735794917074405, "dur":1444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1735794917076317, "dur":93, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1735794917076431, "dur":5729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917082287, "dur":2383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917084740, "dur":4015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917088819, "dur":697, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Stack\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917088818, "dur":700, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917089541, "dur":3580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917093142, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917093138, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917093266, "dur":2017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917095542, "dur":2305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917101522, "dur":483, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1735794917097914, "dur":4106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917109602, "dur":387, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1735794917102133, "dur":7882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917110128, "dur":7279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917117473, "dur":1876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917119919, "dur":10237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735794917130268, "dur":39322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets7.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1735794917169634, "dur":37736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":10, "ts":1735794917207387, "dur":164339, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735794917053246, "dur":6824, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735794917060071, "dur":6047, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735794917066127, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1735794917067738, "dur":2091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1735794917069905, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1735794917069882, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1735794917069992, "dur":3659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1735794917073731, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917073727, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917083931, "dur":190, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735794917073844, "dur":10294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917084272, "dur":5636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917089994, "dur":311, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Stack\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917089992, "dur":315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917093072, "dur":80, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735794917090341, "dur":2825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917093219, "dur":4918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917098252, "dur":3533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917101862, "dur":2258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917104203, "dur":5458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917117807, "dur":104, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735794917109767, "dur":8159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917119962, "dur":3223, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917119950, "dur":3239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917123208, "dur":389, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735794917123630, "dur":7340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735794917131034, "dur":136, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735794917131173, "dur":6712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets6.resource" }}
+,{ "pid":12345, "tid":11, "ts":1735794917137921, "dur":33118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":11, "ts":1735794917171073, "dur":37960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":11, "ts":1735794917209049, "dur":162658, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1735794917053309, "dur":6772, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1735794917060081, "dur":6007, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1735794917066090, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1735794917066210, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1735794917079210, "dur":3372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1735794917082720, "dur":4891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735794917087672, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Stack\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735794917087670, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735794917087802, "dur":2285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735794917090103, "dur":221, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Stack\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735794917090101, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735794917090361, "dur":2811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735794917093258, "dur":1864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735794917095232, "dur":2360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735794917097664, "dur":6639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735794917104400, "dur":6966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735794917111438, "dur":6629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735794917118251, "dur":45709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735794917164050, "dur":21082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":12, "ts":1735794917185175, "dur":944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":12, "ts":1735794917186330, "dur":5571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1735794917192628, "dur":5565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/resources.assets" }}
+,{ "pid":12345, "tid":12, "ts":1735794917198256, "dur":2164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/level5" }}
+,{ "pid":12345, "tid":12, "ts":1735794917200449, "dur":1323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stack Build/UAS Game Dev Jomog_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":12, "ts":1735794917201901, "dur":169794, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735794917376033, "dur":1566, "ph":"X", "name": "ProfilerWriteOutput" }
+,
